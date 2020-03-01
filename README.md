@@ -1,11 +1,16 @@
-This repository contains debian packages for toolchains used in Parrot products.
+This repository contains URLs to debian packages for toolchains used in Parrot products.
 
-* Bebop: 2012.03
-* Bebop2: 2012.03, 2016.02-linaro
-* BlueGrass: 2012.03, 2016.02-linaro
-* Disco: 2012.03, 2016.02-linaro
-* Mambo: 2012.03
-* Sequoia: 2012.03, 2016.02-linaro
-* SkyController2: 2012.03, 2016.02-linaro
-* SkyController2P: 2016.02-linaro
-* Swing: 2012.03
+* Anafi: [linaro-6.3-2017.02-aarch64](https://firmware.parrot.com/Toolchains/parrot-tools-gcc-linaro-6.3-2017.02-aarch64-linux-gnu_1.0.0-2_amd64.deb)
+* AnafiThermal: [linaro-6.3-2017.02-aarch64](https://firmware.parrot.com/Toolchains/parrot-tools-gcc-linaro-6.3-2017.02-aarch64-linux-gnu_1.0.0-2_amd64.deb)
+* ARDrone: [2009q1](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools_1.0.0-3_i386.deb)
+* ARDrone2: [2010.09](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2010.09_1.0.2-1_i386.deb)
+* Bebop: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb)
+* Bebop2: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb), [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* BlueGrass: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb), [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* Disco: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb), [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* Mambo: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb)
+* Sequoia: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb), [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* SkyController2: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb), [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* SkyController2P: [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* SkyController3: [2016.02-linaro](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2016.02-linaro_1.0.0-5_amd64.deb)
+* Swing: [2012.03](https://firmware.parrot.com/Toolchains/parrot-tools-linuxgnutools-2012.03_1.0.0-1_i386.deb)
